@@ -1,5 +1,6 @@
-key | username | uuid | hwid
+version=2.1
 
+key | username | uuid | hwid
 
 skjfasjfkasjfkljsaasklfj | Nombredeusuario1 | d05c3238-bcc8-4fc9-a36e-7218bfc644f1 | HWID1
 askfkasfkkasixclllxlzcll | Nombredeusuario2 | f5caee1d-2a65-401c-9175-8205e8571e76 | HWID2
